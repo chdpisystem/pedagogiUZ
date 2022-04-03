@@ -1,60 +1,60 @@
 const menu = [
   { 
     id: 1,
-    title: "Айдаров, Еркин Бакитович",
+    title: "Aidarov Erkin Bakitovich",
     category: "math",
     price: "33года",
     img: "https://ltdfoto.ru/images/2022/03/29/pedagog18c8328a468bd6878.jpg",
-    desc: `В 2011 году окончил Ташкентский институт ирригации и мелиорации , а в 1913 году окончил Поволжский...`,
-    more:`https://chdpisystem.github.io/aidaroverkinRU/index.html`
+    desc: `2011-yilda Toshkent irrigatsiya va melioratsiya institutini, 1913-yilda esa Volga...`,
+    more:`https://chdpisystem.github.io/aidaroverkinUZ/index.html`
   },
   {
     id: 3,
-    title: "Зинаида Викторовна Османова",
+    title: "Zinaida Viktorovna Osmanova",
     category: "math",
     price: "47 лет",
     img: "https://ltdfoto.ru/images/2022/03/30/zinaidaviktorovna.jpg",
-    desc: `Зинаида Викторовна Османова — итальянский художник и учёный, изобретатель, писатель...`,
-    more: `https://chdpisystem.github.io/zinaidaviktorovnaRU/index.html`
+    desc: `Zinaida Viktorovna Osmanova - italiyalik rassom va olim, ixtirochi, yozuvchi...`,
+    more: `https://chdpisystem.github.io/zinaidaviktorovnaUZ/index.html`
   },
   {
     id: 4,
-    title: "Леонардо Да Винчи",
+    title: "Leonardo da Vinchi",
     category: "russ",
     price: "31 год",
     img: "https://ltdfoto.ru/images/2022/04/02/leo_optimized.jpg",
-    desc: `Леона́рдо ди сер Пье́ро да Ви́нчи — итальянский художник и учёный, изобретатель и писатель, музыкант `,
-    more:`https://chdpisystem.github.io/leonardodavinchiRU/index.html`
+    desc: `Leonardo di Ser Piero da Vinchi - italiyalik rassom va olim, ixtirochi va yozuvchi, musiqachi.`,
+    more:`https://chdpisystem.github.io/leonardodavinchiUZ/index.html`
   },
   {
     id: 5,
-    title: "Мирзиёев, Шавкат Миромонович",
+    title: "Mirziyoyev, Shavkat Miromonovich",
     category: "russ",
     price: "45 лет",
     img: "https://ltdfoto.ru/images/2022/04/02/920__95_2734992474.jpg",
-    desc: `Шавкат Миромонович Мирзиёев (узб. Shavkat Miromonovich Mirziyoyev; род. 24 июля 1957, `,
-    more:`https://chdpisystem.github.io/shavkatmirziyoevRU/index.html`
+    desc: `Shavkat Miromonovich Mirziyoyev (oʻzb. Shavkat Miromonovich Mirziyoyev; 1957-yil 24-iyulda tugʻilgan,`,
+    more:`https://chdpisystem.github.io/mirziyoyevshavkatUZ/index.html`
   },
   {
     id: 6,
-    title: "Эйнштейн, Альберт",
+    title: "Eynshteyn, Albert",
     category: "physics",
     price: "34",
     img: "https://ltdfoto.ru/images/2022/04/02/ale.jpg",
-    desc: `Альбе́рт Эйнште́йн (нем. Albert Einstein, МФА )Родился 14 марта 1879, Ульм, Королевство Вюртемберг `,
-    more:`https://chdpisystem.github.io/alberteinsteinRU/index.html`,
+    desc: `Albert Eynshteyn (nem. Albert Einstein, TIV) 1879-yil 14-mart, Ulm, Vyurtemberg Qirolligida tug‘ilgan.`,
+    more:`https://chdpisystem.github.io/albertensteinUZ/index.html`,
   },
   {
     id: 8,
-    title: "Лариса Барисовна",
+    title: "Larisa Barisovna Anatolievna",
     category: "russ",
     price: "25лет",
     img: "https://sun9-39.userapi.com/impg/TCFiOLP-M5PEtHdhSK6JWB3hFIyK-Q2Fv6JVyQ/sUK2GKlF63Y.jpg?size=604x604&quality=96&sign=cb95b30bc2f512dce30d5f3149d2639a&type=album",
-    desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+    desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut `,
   },
   {
     id: 9,
-    title: "Глара Анотаева",
+    title: "Glara Viktorovna Gukc",
     category: "physics",
     more: "https://add0n.com/flashplayer.html?version=0.2.3&p=0.2.2&type=update",
     price: "27лет",
