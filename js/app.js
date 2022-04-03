@@ -137,7 +137,7 @@ setInterval(function(){
 
 // WEEK
 window.setInterval(function(){
-  const days =['ВОСКРЕСЕНЬЕ',"ПОНЕДЕЛЬНИК", "ВТОРНИК", "СРЕДА", "ЧЕТВЕРГ", "ПЯТНИЦА", "СУББОТА"];
+  const days =['YAKSHANBA',"DUSHANBA", "SESHANBA", "CHORSHANBA", "PAYSHANBA", "JUMA", "SHANBA"];
   const now = new Date();
   const week = document.getElementById("week");
   week.innerHTML = days[now.getDay()]
